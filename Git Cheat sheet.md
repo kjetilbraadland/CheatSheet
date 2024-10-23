@@ -1,0 +1,1 @@
+git checkout 'master@{1979-02-26 18:30:00}'
