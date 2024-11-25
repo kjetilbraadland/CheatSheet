@@ -1,1 +1,7 @@
-git checkout 'master@{1979-02-26 18:30:00}'
+
+
+# Reset to point in time
+**git checkout 'main@{2023-01-25 18:30:00}'**
+
+# Undo changes and keep changes
+**git reset HEAD^**
