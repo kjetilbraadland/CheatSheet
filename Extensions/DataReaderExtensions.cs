@@ -1,7 +1,7 @@
 using System.Data;
 using System.Reflection;
 
-namespace EMM.LCIIntegration.CPPP.Worker
+namespace DataReaderExtensions
 {
     public static class DataReaderExtensions
     {
